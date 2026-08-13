@@ -11,8 +11,8 @@ Backend-focused software engineer based in Brighton (open to London & remote). I
 ### Selected projects
 - **[IncidentPilot](https://github.com/callan-jackson/incident-pilot)** — automated cloud incident root-cause & remediation agent; AI diagnostic workflow (Azure OpenAI · Semantic Kernel) with a deterministic fallback, Blazor dashboard, Bicep IaC and OIDC CI/CD → 🔴 **[live demo on Azure](https://incidentpilot-callan.azurewebsites.net)** (C# · .NET 8).
 - **[easyJet Ops Intelligence](https://github.com/callan-jackson/easyjet-ops-intelligence)** — UK aviation punctuality analytics; ETL → DuckDB → ML → a 📊 **[live dashboard](https://callan-jackson.github.io/easyjet-ops-intelligence/)** (Python · DuckDB · scikit-learn).
-- **[NextTrack](https://github.com/callan-jackson/NextTrack)** — content-based music recommendation platform (Django · Channels · Redis · Celery · Docker). Real-time WebSocket search + resilient multi-API integration.
-- **[Lernova (eLearning Platform)](https://github.com/callan-jackson/elearning-platform)** — multi-role course system with WebSocket chat, REST API and role-based permissions; Dockerised with passing CI.
+- **[NextTrack](https://github.com/callan-jackson/NextTrack)** — content-based music recommendation platform (Django · Channels · Redis · Celery · Docker). Real-time WebSocket search + resilient multi-API integration → 🎵 **[live on Azure](https://nexttrack.20-240-45-72.sslip.io)**.
+- **[Lernova (eLearning Platform)](https://github.com/callan-jackson/elearning-platform)** — multi-role course system with WebSocket chat, REST API and role-based permissions; Dockerised with passing CI → 🎓 **[live on Azure](https://lernova.20-240-45-72.sslip.io)**.
 - **[Evolving Climbing Creatures](https://github.com/callan-jackson/evolving-climbing-creatures)** — genetic algorithms evolving creatures to climb in a physics engine (Python · PyBullet).
 - **[Fennel & Fetch](https://github.com/callan-jackson/fennel-and-fetch)** — a dog-grooming studio site with a working 🐾 **[live booking system & staff dashboard](https://callan-jackson.github.io/fennel-and-fetch/)** (vanilla JS · no dependencies).
 
